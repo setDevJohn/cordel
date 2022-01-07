@@ -30,10 +30,9 @@ header{
 
 header > h1{
     padding-top: 50px;
-    /*text-transform: uppercase; -> deixa as letras maiúsculas*/
-    font-variant: small-caps; /*Deixa maiúscula porém minimalista*/
+    font-variant: small-caps; 
     font-family: var(--font3);
-    font-size: 9vw; /*Adaptação das letras usando a largura total da viewport com viewpot-width(vw)*/
+    font-size: 9vw; 
 }
 
 header > p{
@@ -52,7 +51,7 @@ header a:hover, footer a:hover{
 
 section{
     padding-top: 10vh; 
-    padding-bottom: 10vh; /*Deixando os padding com 10% da altura da viewport, criando um espaçamento pro efeito paralax e deixando adaptável para telas maiores ou menores já que está com a porcentagem da vh*/
+    padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font2);
