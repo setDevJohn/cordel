@@ -4,7 +4,7 @@ Uma poesia de Milton Duarte, construída em uma página com efeito parallax.
 
 
 ## 🔗 Acesso ao projeto
-[<img src="imagens/projeto-corel.gif">](https://jhonyfreitasdev.github.io/projeto-cordel/)
+[<img src="imagens/projeto-cordel.gif">](https://jhonyfreitasdev.github.io/projeto-cordel/)
 
 
 ## 🛠 Skils
