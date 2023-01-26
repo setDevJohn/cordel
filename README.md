@@ -4,6 +4,8 @@ Uma poesia de Milton Duarte, construída em uma página com efeito parallax.
 
 
 ## 🔗 Acesso ao projeto
+<a href="https://jhonyfreitasdev.github.io/projeto-cordel/">Clique aqui para ir para a página</a>
+
 [<img src="imagens/projeto-cordel.gif">](https://jhonyfreitasdev.github.io/projeto-cordel/)
 
 
